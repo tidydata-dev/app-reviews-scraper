@@ -1,6 +1,6 @@
 # App Store & Google Play Reviews Scraper — Python, Node.js & cURL examples
 
-Get **reviews from the Apple App Store and Google Play** — rating, title, text, date, app version, helpful votes and **developer replies** — plus an app info row (rating, installs, ratings count). Any country, star filter. **$0.25 per 1,000 reviews.**
+Get **reviews from the Apple App Store and Google Play** — rating, title, text, date, app version, helpful votes and **developer replies** — plus an app info row (rating, installs, ratings count). Any country, star filter. **$0.10 per 1,000 reviews.**
 
 Hosted on Apify: **[App Store & Google Play Reviews Scraper](https://apify.com/tidydata/app-reviews-scraper)**. These examples show how to call it from your code; the Actor runs in the cloud, no API key for the source site, no proxies to manage.
 
